@@ -428,3 +428,6 @@ tree_avgs <- merge(tree_avgs, site_locations, by=c("site"))
 
 write.csv(all_data, file="allfield_data.csv")
 write.csv(tree_avgs, file="all_averages.csv")
+
+
+#adding another text options
